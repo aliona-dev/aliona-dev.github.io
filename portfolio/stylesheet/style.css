@@ -243,9 +243,11 @@ h4 {
   position: relative;
   z-index: 1;
   bottom: 20px;
-  height: 60px;
+  height: 70px;
   background-color: rgb(48, 46, 46);
   color: white;
+  border: 2px solid gray;
+
   text-align: center;
 }
 

@@ -221,7 +221,8 @@ h4 {
   display: flex;
   overflow: auto;
   margin: 0 auto;
-  margin-bottom: 50px;
+  margin-bottom: 80px;
+  margin-top: 20px;
   background-color: rgb(54, 54, 52);
   border: 2px solid white;
 }
@@ -232,7 +233,7 @@ h4 {
   flex-shrink: 0;
   height: 100%;
   padding: 10px;
-  margin: 0;
+  margin-bottom: 0;
   border: 3px solid white;
 }
 
@@ -310,6 +311,7 @@ iframe {
 }
 
 video {
+  margin-bottom: 30px;
   padding: 10px;
   background: rgb(165, 160, 160);
   border: 3px solid white;
@@ -317,7 +319,7 @@ video {
 }
 
 #bg-img-size {
-  height: 4680px;
+  height: 5000px;
   width: 100%;
-  filter: brightness(30%);
+  filter: brightness(42%);
 }
